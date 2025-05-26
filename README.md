@@ -32,9 +32,3 @@ git clone https://github.com/Tola-lemma/Employee-management-using-MERN-stack.git
 <img src="Backend/public/images/DepPage.jpg" alt="">
 <strong> Employee page</strong>
 <img src="Backend/public/images/EmpPage.jpg" alt="">
-<strong> Update Employee </strong>
-<img src="Backend/public/images/EmpUpdate.jpg" alt="">
-
-
-# Contributing
-Contributions are welcome! Please open a pull request or issue on GitHub to get started.
